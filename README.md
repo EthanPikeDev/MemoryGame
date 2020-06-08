@@ -12,7 +12,7 @@
 
  **How to install and run the game on your local machine.**
 
-1. Download the repository from github here: 
+1. Download the repository from github here: https://ethanpikedev.github.io/MemoryGame/ 
 2. Unzip the folder to your desired location. IE your desktop.
 3. Open the folder with visual studio code.
 4. Run "npm install" in the terminal to install the necessary node modules.
