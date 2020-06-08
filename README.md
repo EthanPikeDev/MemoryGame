@@ -1,4 +1,8 @@
-Rules of Memory game:
+# React Memory Game
+
+**In this project I was tasked to Create a game in react as a capstone project.**
+
+ **Rules of Memory game:**
 
 -Pick a name of your choice for the game. Or leave blank.
 -Turn over cards and try to match them to their respective partner by using memory.
@@ -6,7 +10,7 @@ Rules of Memory game:
 -Press the help/rules button at any time to get the rules of the game on the page if you forgot.
 -By restarting or quitting you can restart the game with 0 score and a new username.
 
-How to install and run the game on your local machine.
+ **How to install and run the game on your local machine.**
 
 -Download the repository from github here: 
 -Unzip the folder to your desired location. IE your desktop.
